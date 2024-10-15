@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'LikhonDocs | Developer’s Blog',
+  title: 'Likhon Sheikh',
   author: 'Likhon Sheikh',
-  headerTitle: 'Likhon’s Tech Space',
+  headerTitle: 'Likhon Sheikh',
   description: 'Exploring emerging technologies, open-source projects, and developer tools.',
   language: 'en-us',
   theme: 'system', // system, dark or light
